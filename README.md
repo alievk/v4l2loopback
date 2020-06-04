@@ -13,7 +13,7 @@ the loopback devices).
 
 # NEWS
 to get the main features of each new release, see the [NEWS](NEWS) file.
-you could also have a look at the [ChangeLog](ChangeLog) (which gets automatically generated and might
+you could also have a look at the [ChangeLog](ChangeLog) which gets automatically generated and might
 only be of limited use...
 
 # ISSUES
