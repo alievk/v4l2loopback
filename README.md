@@ -12,8 +12,8 @@ streaming capabilities to an application by the means of hooking GStreamer into
 the loopback devices).
 
 # NEWS
-to get the main features of each new release, see the NEWS file.
-you could also have a look at the ChangeLog (which gets automatically generated and might
+to get the main features of each new release, see the [NEWS]NEWS file.
+you could also have a look at the [ChangeLog]ChangeLog (which gets automatically generated and might
 only be of limited use...
 
 # ISSUES
